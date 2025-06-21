@@ -153,6 +153,9 @@ Some Southeast Asian countries are performing poorly in specific subcategories.
 Several U.S. cities with low orders still skew the average profit.
 
 
+Only Newyork had more than 10 orders in USA. 24orders to be specific.
+
+
 High-value customers usually bought a single product type per order, with high associated profit.
 
 
